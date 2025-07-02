@@ -1,0 +1,62 @@
+h1{
+   color: rgb(213, 45, 101);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size:30px;
+   text-align: center;
+}
+p{
+   color:rgb(14, 14, 14);
+   font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 20px;
+   margin:  20px;;
+   text-align: center;
+   text-align: middle;
+   line-height:   20px;
+   padding:  20px;
+   .estrofe {
+ margin-bottom:50px; /* Espaço entre as estrofes */
+} }
+
+
+
+
+
+
+
+
+p {
+ outline: 10px; /* Espaçamento entre as linhas */
+}
+
+
+
+
+
+
+
+
+body{
+   background: rgb(223, 204, 223);
+}
+img{
+   width: 300px;
+   height: 300px;
+   margin-left:375px;
+  text-align: center;
+       
+   }
+   
+   
+ .cabeçalho{
+   background-color: rgb(247, 28, 123);
+   color: bisque;
+   display: flex;
+ justify-content: space-around;
+ text-align: center;
+ }
+ .cabeçalho-lista{
+    display: flex;
+   margin:  10px;
+   font-size: 36px;
+   
+ }
